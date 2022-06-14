@@ -1,0 +1,28 @@
+html,
+body {
+  height: 100%;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #607d8b;
+  margin: 0;
+  overflow: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#root {
+  height: 100%;
+}
+
+.App {
+  height: 100%;
+  overflow: hidden;
+}
+
+.row {
+  margin-bottom: -4px;
+}
